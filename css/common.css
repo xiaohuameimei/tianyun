@@ -1,0 +1,22 @@
+.container { width:1200px; overflow:hidden; margin:0 auto;}
+*{ font-family:"微软雅黑";}
+img { display:block;}
+
+/*网页头部共用*/
+.header { background:#ffffff; }
+.header .logo { float:left; margin-top:12px;}
+.nav { float:left; margin-left:32px; margin-top:20px;}
+.nav ul li { float:left; margin-left:71px; line-height:80px; font-size:18px; font-weight:bold;}
+.nav ul li:hover a span{ color:#2b4ba0; border-bottom:#2b4ba0 solid 3px; padding-bottom:5px;}
+.current a span{ color:#2b4ba0; border-bottom:#2b4ba0 solid 3px; padding-bottom:5px;}
+.search { overflow:hidden; margin-top:45px; float:right;}
+.search form input { width:184px; line-height:28px; height:28px; border:#2b4ba0 1px solid; float:left; color:#999999; padding:0 6px;}
+.search form input#search { width:32px; height:30px; float:left; background:#2b4ba0 url(../images/search.png) no-repeat center; cursor:pointer;}
+
+
+/*底部共用*/
+.footer { width:100%; line-height:30px; background:#a3a1a1; text-align:center;}
+.footer p { font-size:12px; color:#333333;}
+.footer p span { margin-left:20px;}
+
+

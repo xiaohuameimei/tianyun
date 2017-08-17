@@ -1,0 +1,24 @@
+.position { overflow:hidden; margin-top:45px;}
+.position p a { color:#666666;}
+.position p{ font-size:14px; color:#666666; float:right;}
+.position p span { color:#3a8df0;}
+
+.content .banner img { width:100%;}
+.title { line-height:40px; background:url(../images/news_line.png) no-repeat; background-position:bottom left; }
+.title h3 { font-size:18px; color:#3a8df0; font-weight:normal; margin-left:45px;}
+.contact { overflow:hidden;}
+.contact_left { width:295px; font-size:18px; line-height:55px; margin-top:70px; margin-left:10px; float:left;}
+.contact_left h3 { color:#666; text-indent:2em;}
+.contact_left p { color:#999; }
+.contact_left p span { font-weight:bold; color:#666;}
+.massage { height:685px; width:100%; background:url(../images/contact_massage.png) no-repeat; background-position:center center;}
+.massage form { margin-top:85px; margin-left:20px; float:left; overflow:hidden;}
+.massage form label { font-size:18px; color:#666; width:75px; display:inline-block; float:left; line-height:30px}
+.massage form input { width:250px; height:30px; margin-bottom:30px; padding:0 6px; border:1px solid #cccccc; line-height:30px;}
+.massage form textarea { width:396px; height:196px; margin-bottom:30px; padding:6px; border:1px solid #cccccc;}
+input#num { width:102px; float:left;}
+.massage form img{ float:left; margin:4px 0 4px 10px; cursor:pointer;}
+input#sub { width:102px; margin-left:65px; background:#fff; cursor:pointer; border:1px solid #cccccc; font-size:18px; color:#666666; height:38px;}
+.card { float:left; width:155px; text-align:center; margin-top:265px; margin-left:225px; }
+.card p { font-size:18px; margin-top:10px; color:#666;}
+.contact_map { float:right; margin:37px 0 85px;}
